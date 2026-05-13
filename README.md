@@ -17,5 +17,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1587-bank-account-summary-ii) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1965-employees-with-missing-information](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DEVESH307/LeetCodeSQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
