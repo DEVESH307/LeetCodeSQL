@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1393-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/DEVESH307/LeetCodeSQL/tree/master/1667-fix-names-in-a-table) |
